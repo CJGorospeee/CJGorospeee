@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
+  <title id="title">CJ Gorospe profile banner</title>
+  <desc id="desc">A colorful gradient banner with the message Building ideas into impact.</desc>
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071a2b" />
+      <stop offset="48%" stop-color="#075e73" />
+      <stop offset="100%" stop-color="#f08a3c" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#62e6d7" />
+      <stop offset="100%" stop-color="#ffd166" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="190" rx="18" fill="url(#bannerGradient)" />
+  <path d="M0 150 L210 72 L380 142 L580 45 L900 125" fill="none" stroke="url(#accentGradient)" stroke-width="2" opacity="0.7" />
+  <path d="M0 168 L210 90 L380 160 L580 63 L900 143" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.18" />
+  <text x="52" y="72" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CJ GOROSPE</text>
+  <text x="52" y="116" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Building ideas into impact.</text>
+  <text x="54" y="145" fill="#d9fff8" font-family="Arial, Helvetica, sans-serif" font-size="15">Web development  /  design  /  data</text>
+</svg>
