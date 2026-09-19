@@ -20,12 +20,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">
-### Hello Everyone 👋 I'm Cayetano Gorospe Jr. (a.k.a. CJ Gorospe)<br><br>- 🎓 Currently pursuing a **Diploma in Information Systems** at **Informatics**<br>- 🔭 Passionate about **Web Development, Cryptocurrency, Data Visualization, and Cybersecurity**<br>- 🌐 Tech Stack: `HTML` | `CSS` | `JavaScript` | `PHP` | `React` | `Tailwind` | `Java` | `Sass`<br>- 🛡️ Aspiring **Penetration Tester** with a strong interest in both **offensive and defensive security**<br>- 📊 Loves diving into **Data Analytics**, **Web3 technologies**, and technical analysis of crypto coins<br>- ⚡ In my free time: exploring new tech tools, sharpening my code, and staying updated on the latest **infosec** and **blockchain trends**<br><br>🎓 I'm also actively attending **seminars, trainings, and conferences** to stay ahead in tech. Some of the events I've joined include:<br>- **Bull or Bear of Web3**<br>- **DevFest** by Google for Web Developers<br>- **DICT trainings** on various tech and cybersecurity topics<br><br>📫 **Let's connect!**  <br>Always open to collaboration, learning, and building something awesome together 🤝</p>
+Hello everyone! I’m **Cayetano Gorospe Jr.**, also known as **CJ Gorospe**. I’m an aspiring technology professional who enjoys turning ideas into useful, thoughtful digital experiences.
+
+- 🎓 Pursuing a **Diploma in Information Systems** at **Informatics**
+- 💻 Building skills in **web development, UI/UX design, and data analytics**
+- 📊 Exploring **data visualization, cryptocurrency, Web3, and technical analysis**
+- 🛡️ Developing an interest in **cybersecurity and penetration testing**
+- 📚 Staying current through seminars, trainings, and conferences, including **DevFest**, **DICT trainings**, and **Bull or Bear of Web3**
+
+I enjoy learning new tools, improving my code, and collaborating on projects that make technology more accessible and useful.
+
+📫 **Let’s connect and build something meaningful together.**
 
 ###
 
