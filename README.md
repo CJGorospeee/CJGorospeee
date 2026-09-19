@@ -98,9 +98,17 @@ I stay current through developer conferences, security bootcamps, and technical 
 ### 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjg-codes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/stars/cjg-codes?style=for-the-badge&logo=github" alt="GitHub stars" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjg-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/forks/cjg-codes?style=for-the-badge&logo=github" alt="GitHub forks" />
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/cjg-codes/cjg-codes?style=for-the-badge&logo=github" alt="Last commit" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/github/languages/top/cjg-codes/cjg-codes?style=for-the-badge" alt="Top languages" />
 </div>
 
 <br>
