@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/profile-banner.svg" alt="CJ Gorospe - Building ideas into impact" />
+  <img src=".github/profile-banner.svg" alt="CJ Gorospe - Web Developer, UI/UX Designer, and Data Analyst" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cjg-codes&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
