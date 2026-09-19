@@ -98,6 +98,12 @@ I stay current through developer conferences, security bootcamps, and technical 
 ### 🔥 GitHub Stats & Activity
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=cjg-codes&theme=tokyonight&hide_border=true&locale=en&mode=daily&date_format=M%20j%5B%2C%20Y%5D" height="190" alt="Streak Graph" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/github/stars/cjg-codes?style=for-the-badge&logo=github" alt="GitHub stars" />
   &nbsp;
   <img src="https://img.shields.io/github/forks/cjg-codes?style=for-the-badge&logo=github" alt="GitHub forks" />
@@ -109,12 +115,6 @@ I stay current through developer conferences, security bootcamps, and technical 
 
 <div align="center">
   <img src="https://img.shields.io/github/languages/top/cjg-codes/cjg-codes?style=for-the-badge" alt="Top languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=cjg-codes&theme=tokyonight&hide_border=true&locale=en&mode=daily&date_format=M%20j%5B%2C%20Y%5D" height="190" alt="Streak Graph" />
 </div>
 
 ---
@@ -155,7 +155,7 @@ I stay current through developer conferences, security bootcamps, and technical 
   </a>
   &nbsp;
   <a href="tel:+630000000000" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/phone/default.svg" width="44" height="40" alt="Phone" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/phone.svg" width="44" height="40" alt="Phone" />
   </a>
 </div>
 
