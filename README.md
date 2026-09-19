@@ -155,7 +155,7 @@ I stay current through developer conferences, security bootcamps, and technical 
   </a>
   &nbsp;
   <a href="tel:+630000000000" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/phone.svg" width="44" height="40" alt="Phone" />
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M22 16.92v3a2 2 0 0 1-2.18 2A19.86 19.86 0 0 1 3.08 4.18 2 2 0 0 1 5.06 2h3a2 2 0 0 1 2 1.72l.43 2.54a2 2 0 0 1-1.2 2.14L8 8.5a16 16 0 0 0 7.5 7.5l.1-.29a2 2 0 0 1 2.14-1.2l2.54.43A2 2 0 0 1 22 16.92z'/%3E%3C/svg%3E" width="44" height="40" alt="Phone" />
   </a>
 </div>
 
