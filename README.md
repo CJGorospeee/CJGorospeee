@@ -14,6 +14,12 @@
 
 ###
 
+<p align="center">
+  <img src=".github/roles.svg" alt="Web Developer | UI UX Designer | Data Analyst | Bookkeeper" />
+</p>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
