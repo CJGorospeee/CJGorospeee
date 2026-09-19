@@ -1,41 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
   <title id="title">CJ Gorospe profile banner</title>
-  <desc id="desc">A classic profile banner for CJ Gorospe with a modern business-style design for web, UX, and data.</desc>
+  <desc id="desc">A colorful gradient banner with the message Building ideas into impact.</desc>
   <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#081826" />
-      <stop offset="38%" stop-color="#0d3555" />
-      <stop offset="70%" stop-color="#1d7ea8" />
-      <stop offset="100%" stop-color="#f39a5b" />
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071a2b" />
+      <stop offset="48%" stop-color="#075e73" />
+      <stop offset="100%" stop-color="#f08a3c" />
     </linearGradient>
     <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6fe7d8" />
-      <stop offset="100%" stop-color="#f9d66c" />
-    </linearGradient>
-    <linearGradient id="softGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#dff7ff" stop-opacity="0.2" />
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05" />
+      <stop offset="0%" stop-color="#62e6d7" />
+      <stop offset="100%" stop-color="#ffd166" />
     </linearGradient>
   </defs>
-
-  <rect width="900" height="190" rx="18" fill="url(#bgGradient)" />
-
-  <circle cx="780" cy="42" r="60" fill="#ffffff" opacity="0.06" />
-  <circle cx="824" cy="62" r="74" fill="#ffffff" opacity="0.04" />
-  <circle cx="856" cy="110" r="46" fill="#ffffff" opacity="0.05" />
-
-  <path d="M0 146 L180 88 L340 146 L520 64 L760 130 L900 104" fill="none" stroke="url(#accentGradient)" stroke-width="2.5" opacity="0.8" />
-  <path d="M0 164 L180 106 L340 164 L520 82 L760 148 L900 124" fill="none" stroke="#ffffff" stroke-width="1.2" opacity="0.18" />
-
-  <rect x="26" y="26" width="2" height="120" fill="#6fe7d8" opacity="0.9" />
-  <rect x="46" y="26" width="170" height="2" fill="#ffffff" opacity="0.22" />
-
-  <text x="52" y="72" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CJ GOROSPE</text>
-  <text x="52" y="118" fill="#f8fbff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Building ideas into impact.</text>
-  <text x="54" y="145" fill="#d9f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">WEB DEVELOPER • UI/UX DESIGNER • DATA ANALYST</text>
-
-  <g transform="translate(670 34)">
-    <rect width="178" height="34" rx="17" fill="#ffffff" opacity="0.09" stroke="#dff7ff" stroke-opacity="0.2"/>
-    <text x="89" y="22" text-anchor="middle" fill="#f7fdff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">DESIGN • CODE • DATA</text>
-  </g>
+  <rect width="900" height="190" rx="18" fill="url(#bannerGradient)" />
+  <path d="M0 150 L210 72 L380 142 L580 45 L900 125" fill="none" stroke="url(#accentGradient)" stroke-width="2" opacity="0.7" />
+  <path d="M0 168 L210 90 L380 160 L580 63 L900 143" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.18" />
+  <text x="52" y="72" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CJ GOROSPE</text>
+  <text x="52" y="116" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Building ideas into impact.</text>
+  <text x="54" y="145" fill="#d9fff8" font-family="Arial, Helvetica, sans-serif" font-size="15">Web development  /  design  /  data</text>
 </svg>
