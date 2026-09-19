@@ -98,15 +98,15 @@ I stay current through developer conferences, security bootcamps, and technical 
 ### 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.denvercoder1.com/api?username=cjg-codes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cjg-codes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.denvercoder1.com/api/top-langs/?username=cjg-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjg-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cjg-codes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="190" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com/?user=cjg-codes&theme=tokyonight&hide_border=true&locale=en&mode=daily&date_format=M%20j%5B%2C%20Y%5D" height="190" alt="Streak Graph" />
 </div>
 
 ---
@@ -122,12 +122,32 @@ I stay current through developer conferences, security bootcamps, and technical 
 ### 🤝 Let’s Connect
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/cjg-codes" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="40" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="40" alt="Gmail" />
+  <a href="mailto:cj.gorospejr@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="40" alt="Gmail" />
+  </a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="40" alt="Discord" />
+  <a href="https://www.facebook.com/cjgorospe" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="40" alt="Facebook" />
+  </a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="40" alt="Telegram" />
+  <a href="https://www.instagram.com/cjgorospe" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/cjg-codes" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="40" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/cjgcodes" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="40" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="tel:+630000000000" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/phone/default.svg" width="44" height="40" alt="Phone" />
+  </a>
 </div>
 
