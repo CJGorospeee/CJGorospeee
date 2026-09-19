@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src=".github/profile-banner.svg" alt="CJ Gorospe - Building ideas into impact" />
-</div> -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation" />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cjg-codes.cjg-codes&left_color=aqua&right_color=chocolate" alt="Profile visitors" />
@@ -11,7 +11,7 @@
 <h1 align="center">Cayetano Gorospe Jr. (CJ) 👋</h1>
 
 <div align="center">
-  <img src=".github/roles.svg" alt="Web Developer | UI UX Designer | Data Analyst | Bookkeeper" />
+  <img src=".github/roles.svg" alt="Web Developer | UI UX Designer | Data Analyst | Bookkeeper | IT Support" />
 </div>
 
 ---
@@ -44,17 +44,17 @@ I stay current through developer conferences, security bootcamps, and technical 
 
 <div align="center">
   <p><strong>Languages</strong></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="HTML5" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="CSS3" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="52" alt="PHP" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="Java" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="52" alt="C#" />
 
   <br><br>
 
@@ -131,6 +131,3 @@ I stay current through developer conferences, security bootcamps, and technical 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="40" alt="Telegram" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cjg-codes/count.svg" alt="Profile counter" />
-</div>
