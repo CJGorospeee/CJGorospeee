@@ -134,15 +134,15 @@ I stay current through developer conferences, security bootcamps, and technical 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:cj.gorospejr@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:cayetanogorospe7@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="40" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/cjgorospe" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/CayetanoGorospeJr" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="40" alt="Facebook" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/cjgorospe" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/c33j4y17" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="40" alt="Instagram" />
   </a>
   &nbsp;
@@ -150,7 +150,7 @@ I stay current through developer conferences, security bootcamps, and technical 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="40" alt="Discord" />
   </a>
   &nbsp;
-  <a href="https://t.me/cjgcodes" target="_blank" rel="noreferrer">
+  <a href="https://t.me/Mongoosee1" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="40" alt="Telegram" />
   </a>
   &nbsp;
