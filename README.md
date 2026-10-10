@@ -130,7 +130,7 @@ I stay current through developer conferences, security bootcamps, and technical 
 ### 🤝 Let’s Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cjg-codes" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/cayetano-gorospe-01403b314" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
